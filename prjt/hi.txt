@@ -1,4 +1,5 @@
 hallo 수정
 hallo 추가
 hallo main Freund~~
-내가 추가했으~
+hi~~~~!
+>>>>>>> branch 'main' of https://github.com/lgh0480/gitTest.git
